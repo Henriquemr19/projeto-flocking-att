@@ -129,7 +129,8 @@ A implementação do `SpatialGrid` reduziu em aproximadamente **76% o tempo de p
 
 O vídeo mostra a movimentação dos 150 agentes, o desvio de obstáculos e a reação do grupo à aproximação do predador.
 
-- **Link do vídeo:** [Adicionar link aqui]
+- **Link do vídeo:** enviei o video no teams na propria atividade pois estava muito pesado por algum motivo
+
 
 ---
 
